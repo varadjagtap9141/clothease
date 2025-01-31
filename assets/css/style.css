@@ -1,0 +1,57 @@
+.header {
+    background-color: #366279 !important;
+}
+.login_container .card-body button {
+    background-color: #366279 !important;
+    outline: 0;
+    border: 0;
+}
+
+.login_container .card-body input {
+    height: 50px !important;
+    box-shadow: none !important;
+}
+
+.login_container .card-body label {
+    font-size: 15px !important;
+}
+.login_container .copy p {
+    bottom: 0;
+    position: absolute;
+}
+.login_container .copy a{
+    color: #366279 !important;
+}
+
+
+@media(max-width:667px) {
+    .content {
+        display: none !important;
+    }
+
+    .login_container {
+        height: 100% !important;
+    }
+
+    .login_container .card-body {
+        max-height: fit-content !important;
+    }
+    .sale
+    {
+        /* display: none !important; */
+        font-size: 10px !important;
+    }
+    .sale i {
+        display: none !important;
+    }
+    .purchase
+    {
+        /* display: none !important; */
+        font-size: 10px !important;
+    }
+    .purchase i {
+        display: none !important;
+    }
+   
+
+}
