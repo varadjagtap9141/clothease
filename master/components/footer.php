@@ -62,6 +62,8 @@
 <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.print.min.js"></script>
 
+
+
 <script>
     new DataTable('#example', {
         layout: {

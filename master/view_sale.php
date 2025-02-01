@@ -200,4 +200,5 @@ $products = $conn->query("
 </div>
 
 
+
 <?php include "components/footer.php"; ?>
