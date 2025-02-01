@@ -37,8 +37,8 @@ if ($result && $row = $result->fetch_assoc()) {
     <link rel="stylesheet" href="datatables/buttons-dataTables.css">
 
     <!-- invoice assets -->
-    <link rel="stylesheet" href="invoice/css/app.min.css">
-    <link rel="stylesheet" href="invoice/css/style.css">
+    <!-- <link rel="stylesheet" href="invoice/css/app.min.css">
+    <link rel="stylesheet" href="invoice/css/style.css"> -->
 
     <!-- Favicon -->
     <link rel="icon" type="image/x-icon" href="../assets/img/favicon/a2z_logo.png" />
